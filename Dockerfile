@@ -1,4 +1,4 @@
-FROM land007/docker_debian:latest
+FROM land007/docker-compose:latest
 
 MAINTAINER Jia Yiqiu <yiqiujia@hotmail.com>
 
