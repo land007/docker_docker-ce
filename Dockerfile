@@ -1,4 +1,4 @@
-FROM land007/ubuntu-build
+FROM land007/docker_debian:latest
 
 MAINTAINER Jia Yiqiu <yiqiujia@hotmail.com>
 
